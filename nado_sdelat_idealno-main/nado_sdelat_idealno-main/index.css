@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+*{
+  margin: 0;
+  padding: 0;
+}
+
 html {
   height: 100%;
 }
@@ -47,18 +52,18 @@ body {
   content: "На самом деле нет. \A Важнее &mdash; научиться ошибаться.";
   text-align: center;
   white-space: pre;
-  width: 35%;
-  height: 10%;
-  top: 20%;
-  left: 40%;
+  width: 46%;
+  height: 22%;
+  top: 17%;
+  left: 53%;
   z-index: 2;
   background-color: aliceblue;
   box-shadow: black 0 6px;
-  border-radius: 15px;
+  border-radius: 20px;
   position: absolute;
-  font-size: 0.09em;
+  font-size: 1.8vw;
   font-weight: normal;
-  padding: 1.5%;
+  padding: 4%;
   font-family: "fontname";
 }
 
