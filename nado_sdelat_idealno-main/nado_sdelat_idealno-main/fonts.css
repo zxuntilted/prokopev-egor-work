@@ -1,4 +1,5 @@
 @font-face {
     font-family: "fontname";
-    src: url(./fonts/Raleway-ExtraBold.woff2);
+    src: url(./fonts/Raleway-ExtraBold.woff2) format("woff2");
+    
 }
